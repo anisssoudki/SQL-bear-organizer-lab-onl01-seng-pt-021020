@@ -5,5 +5,6 @@ age integer,
 gender text, 
 color text, 
 temperament text,
-alive boolean)
+alive boolean
+)
 ;
